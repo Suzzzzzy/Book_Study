@@ -32,4 +32,6 @@
 - SPOF: 그 서버에 장애가 생길 경우 전체 서비스의 장애로 이어짐ㄴ다
 - 규모 확장성: 컴포넌트의 규모를 개별적으로 늘릴 방법이 없다
 - 개략적 설계
-  ![계략적설계](https://github.com/Suzzzzzy/Book_Study/assets/97580836/2ad341a7-a10a-4581-8892-dfbf2b711a8c)
+<img width="339" alt="스크린샷 2023-08-25 오전 10 28 02" src="https://github.com/Suzzzzzy/Book_Study/assets/97580836/fb8f9674-1dce-40c1-91b8-5ba1df43768f">
+
+  
